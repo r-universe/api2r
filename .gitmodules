@@ -5,6 +5,9 @@
 [submodule "cloudflareapi"]
 	path = cloudflareapi
 	url = https://github.com/api2r/cloudflareapi
+[submodule "nectar"]
+	path = nectar
+	url = https://github.com/api2r/nectar
 [submodule "stbl"]
 	path = stbl
 	url = https://github.com/api2r/stbl
