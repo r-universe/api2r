@@ -10,4 +10,4 @@
 	url = https://github.com/api2r/nectar
 [submodule "stbl"]
 	path = stbl
-	url = https://github.com/api2r/stbl
+	url = https://github.com/wranglezone/stbl
